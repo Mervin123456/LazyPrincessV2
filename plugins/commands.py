@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/moviesarenareq')
             ],
             [
-                InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/moviesarenareq"),
+                InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+IrRQpZ6db7cyODg1"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
